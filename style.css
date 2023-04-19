@@ -8,3 +8,7 @@ header{
 	background-color: blue;
 	width: 100%;
 }
+p{
+	position: fixed;
+	padding-top: 70px;
+}
